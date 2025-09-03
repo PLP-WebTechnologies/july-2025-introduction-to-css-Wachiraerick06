@@ -1,0 +1,26 @@
+p{
+    background-color: lightyellow;
+}
+
+#delivery {
+    background-color: lightblue;
+    font-size: 20px;
+    color: greenyellow;
+    font-weight: bold;
+    font-style: normal;
+    text-align: left;
+    border: 20px solid navy;
+
+}
+
+.text{
+    font-size: 18px;
+    color: darkslategray;
+    font-weight: normal;
+    font-style: italic;
+    text-align: center;
+}
+
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
